@@ -1,0 +1,20 @@
+<package>
+	<id>com.nablac0d3.sslkillswitch2</id>
+	<name>SSL Kill Switch 2</name>
+	<version>0.14</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description></description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>iOS 13 support</change>
+	</changelog>
+	<links></links>
+</package>
