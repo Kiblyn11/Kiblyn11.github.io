@@ -3,12 +3,11 @@ Version: 2.04
 Architecture: iphoneos-arm
 Maintainer: Clutch
 Filename: ./debs/clutch_2.0.4.deb
-Size: 250144
-MD5sum: 004c66a2568dbe465c660100145d523e
-SHA1: e09889f3767398e8c0bdcba0a59df2370e8c6271
-SHA256: d450994fdb062dddb9f6fc4a282d64c7795d039264bc490e1d3e492093f4223b
-Section: base
-Priority: optional
+Size: 250040
+MD5sum: c066846f85d11b78f194a03180beaab1
+SHA1: 466364824b825ef6c1182f5ce171b052e742593b
+SHA256: 2d98dc07ec857841a9ee9ce99498ee0c3a8d7f25682fdf1733c678ea71f6b50f
+Section: Reverse
 Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries.
 Name: Clutch
 
