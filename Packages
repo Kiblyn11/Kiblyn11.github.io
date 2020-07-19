@@ -1,15 +1,16 @@
-Package: Clutch
+Package: com.kjcracks.clutch
 Version: 2.04
 Architecture: iphoneos-arm
 Maintainer: Clutch
 Filename: ./debs/clutch_2.0.4.deb
-Size: 250320
-MD5sum: 784cdac69cbae39d7379d5ad8e6f141a
-SHA1: d6f738620476544e11d273611a26f1ad68e0c063
-SHA256: 07b8e8a08f50c3fc9b71c44f99cab66c6f16ec280830169f3fccba5afb594e11
+Size: 250144
+MD5sum: 004c66a2568dbe465c660100145d523e
+SHA1: e09889f3767398e8c0bdcba0a59df2370e8c6271
+SHA256: d450994fdb062dddb9f6fc4a282d64c7795d039264bc490e1d3e492093f4223b
 Section: base
 Priority: optional
 Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries.
+Name: Clutch
 
 Package: com.nablac0d3.sslkillswitch2
 Version: 0.14-3+debug
