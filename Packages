@@ -11,6 +11,19 @@ Section: Reverse
 Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries.
 Name: Clutch
 
+Package: com.kjcracks.clutch
+Version: 2.04-master-debug
+Architecture: iphoneos-arm
+Maintainer: Clutch
+Filename: ./debs/clutch_2.0.4-master-debug.deb
+Size: 149980
+MD5sum: d2f0762edea62b548a0ac76140f27b16
+SHA1: def68d85b0b1fbfe4bd9349dc84085f9c2448e6c
+SHA256: 98fdaddd9e195607db8082ab1e656be107b363b8b02d9ba796a3a3edb21ef073
+Section: Reverse
+Description: Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries.
+Name: Clutch
+
 Package: com.nablac0d3.sslkillswitch2
 Version: 0.14-3+debug
 Architecture: iphoneos-arm
